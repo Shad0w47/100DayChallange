@@ -1,22 +1,22 @@
-## Day 0 🌱
+# Day 0/100 – Days Challenge 🌱
 
-Today i am only trying to setup this repo and start out the next day
+Today, I am starting out on a new journey — the **100 Days Challenge**.
 
+My goals for these 100 days are:
+- Hit **700 hours** of focused work.
+- Find **high-quality bugs**.
+- Learn by reading **write-ups**, **articles**, and **research** on web security.
 
-# What Happend Today ⌚
-Today i did hunt on a target where i found a firebase database URL and i check it for misconfigurations
-I found a mass sign up and no rate limit issue but i didnt reported it 
+---
 
-* I Hunt For Around 3 Hours Working on Increasing the Impact
-* Went to city to buy a new SSD for my desktop
-* Also Today i ordered my new gaming PC
-* Today All i tried was to build my consistency once agin and restart
+### 🛠️ What I did today:
+- Went to the city with a friend and bought a **new SSD** for my desktop PC.
+- Sat down to **hunt bugs** for around **3 hours**.
 
+---
 
-# Tomorrow 🔦
-
-* I will read about Access controls related bugs and priveledge escalation
-* I Will Hunt
-
-### Note
-These day will be little unclear since i am trying to build the momentium 
+### 📚 Plan for Tomorrow:
+- Read write-ups on:
+  - **Access Control bugs**
+  - **Privilege Escalation**
+  - **Paywall Bypasses**
